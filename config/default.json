@@ -1,0 +1,8 @@
+{
+    "app": {
+        "port": 6066 
+    }, 
+    "jwt_secret":  {
+        "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoxLCJuYW1lIjoiVG9tIn0sImlhdCI6MTY1NTkzNjA5OCwiZXhwIjoxNjU1OTM2NDU4fQ.3OS89FCBckq_Kf_iE4kn9x4O-NMJoM97wyeKytXUDmU"
+    }
+}
